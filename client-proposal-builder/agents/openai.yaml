@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Proposal Builder"
+  short_description: "Build branded proposal, agreement, and payment sites"
+  default_prompt: "Use $client-proposal-builder to build a branded proposal, agreement, signature, and payment site for this prospective client."
